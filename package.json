@@ -1,0 +1,27 @@
+{
+  "name": "socketlirc",
+  "version": "1.0.0",
+  "description": "lircd socket client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtekw92/socketlirc.git"
+  },
+  "keywords": [
+    "lircd",
+    "socket",
+    "lirc",
+    "ir",
+    "remote",
+    "control"
+  ],
+  "author": "Wojciech Wozniak <wwozniak92@gmail.com> (http://github.com/wojtekw92)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wojtekw92/socketlirc/issues"
+  },
+  "homepage": "https://github.com/wojtekw92/socketlirc#readme"
+}
