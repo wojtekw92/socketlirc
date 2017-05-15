@@ -21,11 +21,19 @@ lirc.connect().then(() => {
 ##API
 
 `constructor(host, port)` class constructor
+
 `connect()` connect to socket
+
 `disconnect()`
+
 `getRemoteControllers()`
+
 `getRemoteControllerData(name)`
+
 `getActiveRemoteController()`
+
 `setRemoteController(name)`
+
 `sendCommand(command)`
+
 
